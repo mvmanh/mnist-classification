@@ -1,8 +1,9 @@
 
 # MNIST Classification Flask Application
 
-
-![Sample Image](flask-app/sample.png?raw=true "Sample Image")
+<p align="center">
+<img src='flask-app/sample.png'>
+</p>
 
 
 #  Introduction
