@@ -7,7 +7,7 @@
 
 
 #  Introduction
-We trained a Convolutional Neuron Network on **MNIST** dataset by using Keras framework with Tensorflow backend and get an accuracy of **99.34%**. Visit https://www.mvmanh.com/frameworks/keras/phan-loai-ky-tu-viet-tay-su-dung-keras.html for more information.
+We trained a Convolutional Neuron Network on **MNIST** dataset by using Keras framework with Tensorflow backend and get an accuracy of **99.34%**. Visit https://www.mvmanh.com/frameworks/keras/phan-loai-ky-tu-viet-tay-su-dung-keras.html and https://www.mvmanh.com/bao-mat/tao-website-nhan-dien-chu-so-viet-tay.html for more information.
 
 This repository includes a Python script which allows you reproduce the training process. You are free to adjust the network architecture and training parameters to make your own model.
 In addition, we also create a web app using Flask framework to serve the trained model. This web app allows you to draw digit number from 0 to 9 and displays the predicted digit of your drawing.
