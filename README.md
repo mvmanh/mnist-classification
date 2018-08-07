@@ -19,11 +19,11 @@ Before using this source code, you need to install tools like numpy, tensorflow,
 
 Use the this command to re-train the model:
 
-python mnist_cnn.py
+    python mnist_cnn.py
 
 After finishing the training process, put the model (***mnist_cnn.h5***) in ***static*** folder of Flask app and run the following commands to start the app:
 
-export FLASK_APP=app.py
-python -m flask run
+    export FLASK_APP=app.py
+    python -m flask run
 
 Using any web browser to access:  http://127.0.0.1:5000/
