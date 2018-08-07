@@ -1,5 +1,5 @@
 
-# MNIST Classification Flask Application
+# MNIST Classification Application
 
 <p align="center">
 <img src='flask-app/sample.png'>
