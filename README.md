@@ -2,7 +2,7 @@
 # MNIST Classification Flask Application
 
 
-![Sample Image](sample.png?raw=true "Sample Image")
+![Sample Image](flask-app/sample.png?raw=true "Sample Image")
 
 
 #  Introduction
